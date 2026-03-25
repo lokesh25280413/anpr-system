@@ -1,0 +1,13 @@
+{
+  "plate": "DL3CBJ1384",
+  "confidence": 0.9983,
+  "frame_number": 12,
+  "timestamp": "2026-03-25T18:47:13.837910",
+  "image_path": "results\\vehicle_DL3CBJ1384_12.jpg",
+  "box": [
+    658,
+    451,
+    994,
+    567
+  ]
+}

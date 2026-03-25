@@ -1,0 +1,13 @@
+{
+  "plate": "HR26CQ6869",
+  "confidence": 0.5081,
+  "frame_number": 156,
+  "timestamp": "2026-03-25T18:47:37.747781",
+  "image_path": "results\\vehicle_HR26CQ6869_156.jpg",
+  "box": [
+    1048,
+    604,
+    1394,
+    741
+  ]
+}
