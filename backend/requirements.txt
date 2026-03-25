@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+opencv-python
+ultralytics
+easyocr
+numpy
+python-multipart
+pillow
+scikit-image
+torch
+torchvision
