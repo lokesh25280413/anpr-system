@@ -1,11 +1,11 @@
 fastapi
 uvicorn
-opencv-python
+opencv-python-headless
 ultralytics
-easyocr
+easyocr==1.7.1
 numpy
 python-multipart
 pillow
 scikit-image
-torch
-torchvision
+torch==2.2.2
+torchvision==0.17.2
